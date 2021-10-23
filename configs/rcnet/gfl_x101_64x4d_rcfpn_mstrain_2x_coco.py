@@ -127,7 +127,7 @@ custom_hooks = [dict(type='NumClassCheckHook')]
 dist_params = dict(backend='nccl')
 log_level = 'INFO'
 load_from = None
-resume_from = '/root/data/mmdetection210/work_dirs/gfl_x101_64x4d_cfpn_mstrain_2x_coco/epoch_20.pth'
+resume_from = None
 workflow = [('train', 1)]
 model = dict(
     type='GFL',

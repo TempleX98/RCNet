@@ -15,7 +15,7 @@ Pretrained models will be available.
 
 Training and Testing
 --------------
-This project is based on [mmdetection](https://github.com/open-mmlab/mmdetection). Please follow mmdetection on how to install and use this repo.
+This project is based on [mmdetection](https://github.com/open-mmlab/mmdetection). Please follow mmdetection on how to install and use this repo. Config files can be found in configs/rcnet/.
 
 Results on MS COCO
 ---------
